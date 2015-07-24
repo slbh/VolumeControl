@@ -2,7 +2,19 @@
 <resources>
 
     <string name="app_name">Volume Control</string>
-    <string name="hello_world">Hello world!</string>
+
+    <!--action bar -->
     <string name="action_settings">Settings</string>
+
+    <!-- RulesListActivity -->
+    <string name="title_activity_rules_list">YOUR RULES</string>
+    <string name="new_rule">+</string>
+    <string name="empty_list">You don\'t currently have any rules.\n
+    Press the %1$s button to add a rule.</string>
+
+    <!-- NewRuleActivity -->
+    <string name="title_activity_new_rule">IF</string>
+
+
 
 </resources>
