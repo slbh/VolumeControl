@@ -15,6 +15,16 @@
     <!-- NewRuleActivity -->
     <string name="title_activity_new_rule">IF</string>
 
+    <!--rule descriptions -->
+    <string name="phone_vol">phone volume</string>
+    <string name="media_vol">media volume</string>
+    <string name="muted">muted</string>
+    <string name="vibrate">set to vibrate</string>
+    <string name="set_to">set to %1$d \%</string>
+    <string name="main_clause">then %1$s is %2$s</string>
 
+    <string name="headphone_descr">If headphones are %1$s</string>
+    <string name="plugged_in">plugged in</string>
+    <string name="plugged_out">plugged out</string>
 
 </resources>
